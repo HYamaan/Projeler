@@ -1,6 +1,8 @@
-# Projeler
+###Small-MouseGame
 
-###Mouse Over
-![img](./MouseOver/img/MouseOver.png)
-###Mouse Out
-![img](./MouseOver/img/MouseOut.png)
+#
+
+|             MouseOver              |             MouseOut              |
+| :--------------------------------: | :-------------------------------: |
+| ![](./MouseOver/img/MouseOver.png) | ![](./MouseOver/img/MouseOut.png) |
+
